@@ -1,0 +1,71 @@
+﻿  parser.c
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(7,23): warning C4273: 'fopen': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(213,28): message : see previous definition of 'fopen'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(149,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(149,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(154,19): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(154,8): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(163,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(163,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(194,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(194,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(199,19): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(199,8): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(224,24): warning C4047: '=': 'int' differs in levels of indirection from 'symbol *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(229,35): warning C4133: '=': incompatible types - from 'symbol *' to 'symbolNode *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(233,30): warning C4133: 'function': incompatible types - from 'symbolNode *' to 'symbol *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(243,24): warning C4047: '=': 'int' differs in levels of indirection from 'symbol *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(342,19): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(342,8): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(355,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(355,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(360,19): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(360,8): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(370,19): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(370,8): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(378,20): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(378,9): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(383,20): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(383,9): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(388,20): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(388,9): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(393,20): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(393,9): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(412,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(412,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(436,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(436,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(450,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(450,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(455,19): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(455,8): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(486,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(486,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(501,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(501,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(515,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(515,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(528,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(528,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(600,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(600,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(606,18): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(606,7): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(614,19): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(614,8): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(622,31): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(622,20): warning C4024: 'pushThirdBranch': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(668,21): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(668,10): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(673,21): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(673,10): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(678,21): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(678,10): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(683,21): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(683,10): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(706,24): warning C4028: formal parameter 1 different from declaration
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(746,35): warning C4028: formal parameter 1 different from declaration
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(758,35): warning C4133: '=': incompatible types - from 'symbol *' to 'symbolNode *'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(785,10): warning C4047: 'return': 'symbol *' differs in levels of indirection from 'int'
+C:\Users\Alexander\source\repos\PLCTermProject\PLCTermProject\parser.c(773,1): warning C4133: 'initializing': incompatible types - from 'symbolNode *' to 'symbol *'
+  PLCTermProject.vcxproj -> C:\Users\Alexander\source\repos\PLCTermProject\Debug\PLCTermProject.exe
